@@ -4,7 +4,7 @@
 Este proyecto de HTML y CSS tiene como objetivo **recrear botones desarrollados por Apple** para su Apple Store.
 ## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![31-readme-image](https://github.com/spacecoderdev/apple-store-button/assets/146677344/0f71725f-4b4f-4adb-8d73-c9ebe685d857)
 
 
 ## ✍️ Author
