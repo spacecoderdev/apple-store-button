@@ -1,5 +1,5 @@
 
-# Crea __<buton>__'s al estilo Apple
+# Crea \<buton>'s al estilo Apple
 
 Este proyecto de HTML y CSS tiene como objetivo **recrear botones desarrollados por Apple** para su Apple Store.
 ## 📸 Screenshots
