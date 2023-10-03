@@ -1,0 +1,46 @@
+/* Ten en cuenta que los siguientes estilos están diseñados para dispositivos móviles. */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #111111;
+}
+
+button {
+    position: fixed;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    transition:
+}
+
+.button {
+    border: none; 
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    background-color:hsl(240, 2%, 26%, 0.7);
+    border-radius: 1.75rem;
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+}
+
+.icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    fill: white;
+    background: #0071e3;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+
+.text {
+    font-family: "SF Pro Text Regular";
+    font-size: 14px;
+    color: #f5f5f7;
+    margin: 0 1.2rem;
+    white-space: nowrap;
+}
