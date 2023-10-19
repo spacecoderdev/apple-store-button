@@ -2,6 +2,9 @@
 # Crea \<buton>'s al estilo Apple
 
 Este proyecto de HTML y CSS tiene como objetivo **recrear botones desarrollados por Apple** para su Apple Store.
+- Página web de estudio: https://codepen.io/
+- San Francisco Font: https://developer.apple.com/fonts/
+
 ## 📸 Screenshots
 
 ![31-readme-image](https://github.com/spacecoderdev/apple-store-button/assets/146677344/0f71725f-4b4f-4adb-8d73-c9ebe685d857)
